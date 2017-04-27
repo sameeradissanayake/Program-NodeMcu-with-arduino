@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Naughty Dentist";
-const char* password = "hjklhjh";
-const char* host = "192.168.8.102"; //it will tell you the IP once it starts up
+const char* ssid = "enter your wifi username";
+const char* password = "enter your wifi password";
+const char* host = "192.168.8.101"; //it will tell you the IP once it starts up
                                     //just write it here afterwards and upload
 
 int ledPin = 2;
